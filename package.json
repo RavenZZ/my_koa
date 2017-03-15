@@ -1,5 +1,24 @@
 {
+  "name": "my_koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/app.js",
   "dependencies": {
     "koa": "^2.2.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RavenZZ/my_koa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RavenZZ/my_koa/issues"
+  },
+  "homepage": "https://github.com/RavenZZ/my_koa#readme"
 }
